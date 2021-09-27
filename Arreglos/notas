@@ -1,0 +1,18 @@
+Arreglos 
+espacio de memoria donde puedo almacenar un conjunto de datos temporalmente. 
+
+Estructura de datos
+
+Tipos de Arreglos
+Unidimensional: vector 
+
+Bidimensional: Matriz  
+
+
+let numeros = new array 
+numeros [0]=14
+numeros [1]=56
+numeros = numeros[0] + numeros[1]
+
+let nombres = new Array(5) Solo podra guardar 5 nombres 
+Los arreglos inician desde la posición 0 
